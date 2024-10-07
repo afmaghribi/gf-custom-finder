@@ -11,7 +11,14 @@
 
 ## Installation
 
-Install the python library requirement
+1. Clone the repository
+
+```
+git clone https://github.com/afmaghribi/gf-custom-finder.git
+cd gf-custom-finder
+```
+
+2. Install the python library requirement
 
 ```
 pip3 install -r requirements.txt
